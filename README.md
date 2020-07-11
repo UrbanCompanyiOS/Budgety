@@ -7,7 +7,7 @@ Good article on advantages of IIFE
 <br>
 https://www.tutorialsteacher.com/javascript/immediately-invoked-function-expression-iife
 
-`event.keyCode` and `event.which`, these both properties are now deprecated. Use `event.code` or `event.key` depending on your use case.
+`event.keyCode` and `event.which`, these both properties are now deprecated. <br> Use `event.code` or `event.key` depending on your use case.
 
 Some articles on KeyboardEvents best practices
 <br>
